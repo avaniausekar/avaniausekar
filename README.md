@@ -1,5 +1,9 @@
 ![Header](./header-image.png)
 ### Hi there 👋
+- 🔭 I’m currently working on improving and writing secure code
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on cool and interesting security projects
+- ⚡ Fun fact: I play guitar
 
 <!--
 **avaniausekar/avaniausekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
