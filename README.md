@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on improving and writing secure code
 - 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on cool and interesting security projects
+- 👯 I’m looking to collaborate on cool and interesting open source projects
 - ⚡ Fun fact: I play guitar
 
 <!--
