@@ -1,8 +1,8 @@
 ![Header](./header-image.png)
 ### Hi there 👋
 - 🔭 I’m currently working on improving and writing secure code
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on cool and interesting open source projects
+- 🌱 I am currently reading about System Design and planning to read more about HPC
+- 👯 I’m looking to collaborate on cool and interesting open source projects in all CS domains
 - ⚡ Fun fact: I play guitar
 
 <!--
