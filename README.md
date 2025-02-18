@@ -32,6 +32,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Node Production Headache: Security Headers](https://avaniausekar.github.io/full-stack/node-and-security-headers/)
+- [Node Js and React Js Web App: An Overview](https://avaniausekar.github.io/full-stack/a-node-js-web-app-an-overview/)
+- [The TCP/IP Model and Security](https://avaniausekar.github.io/networking/the-tcp-ip-and-security/)
+- [Deploy a Python Server with Flask on Windows Apache Server](https://avaniausekar.github.io/tech-insights/Ways-to-deploy-a-python-server-on-apache/)
+- [Debugging 101 - Love Your Bugs](https://avaniausekar.github.io/tech-insights/debugging_guide/)
 <!-- BLOG-POST-LIST:END -->
 </p>
 
