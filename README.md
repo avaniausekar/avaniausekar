@@ -34,8 +34,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<p align="left">
-<a href="https://avaniausekar.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/avaniausekar/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://avaniausekar.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
 <!--
