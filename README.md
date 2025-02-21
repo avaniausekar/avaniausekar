@@ -1,5 +1,3 @@
-![Header](./header-image.png)
-
 <h1 align = "center">Hi 👋, I'm Avani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaniausekar&base=937" alt="avaniausekar" /> </p>
 
@@ -24,8 +22,15 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
+<h3 align="left">📈&nbsp; Profile Stats</h3>
+<p align="left">
+  <a href="https://github.com/avaniausekar">
+    <img title="GithubStats" alt="Avani's streak" src="https://streak-stats.demolab.com?user=avaniausekar&theme=calm&hide_border=true&mode=weekly"/>
+  </a>
+</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=avaniausekar&count_private=true&show_icons=true&theme=calm" /></p>
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;***Latest Blog Posts***
 <!-- BLOG-POST-LIST:START -->
 - [Node Production Headache: Security Headers](https://avaniausekar.github.io/full-stack/node-and-security-headers/)
 - [Node Js and React Js Web App: An Overview](https://avaniausekar.github.io/full-stack/a-node-js-web-app-an-overview/)
